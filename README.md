@@ -1,5 +1,5 @@
 # Calculadora-HTML-CSS-JavaScript
-Tarea escolar de una calculadora web, hecha con HTML, cas y JavaScript 
+Tarea de una calculadora web, hecha con HTML, cas y JavaScript 
 
 Zavalza Covarrubias Edgar Enrique #22400695
 
