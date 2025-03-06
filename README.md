@@ -2,6 +2,7 @@
 Tarea de una calculadora web, hecha con HTML, cas y JavaScript 
 
 Zavalza Covarrubias Edgar Enrique #22400695
+https://github.com/EdgarZavalza/Calculadora-HTML-CSS-JavaScript/tree/main
 
 1) Que hace document.querySelector(".display"); ?
 Se selecciona el elemento HTML que tiene la clase "display" y lo guarda en una variable para poder manipularlo. En este caso, se usa para mostrar los resultados de las operaciones en la calculadora.
